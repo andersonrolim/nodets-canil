@@ -7,7 +7,7 @@ Projeto feito Node + Typescript
 ### Instalação
 `npm install`
 
-### No arquivo Pachage.json
+### Arquivo Package.json
 `Configurar o script de start` 
   "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
